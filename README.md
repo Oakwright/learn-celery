@@ -37,3 +37,7 @@ https://buildwithdjango.com/projects/celery-progress/
 https://github.com/eeintech/django-celery-progress-demo
 
 https://eeinte.ch/stream/progress-bar-django-using-celery/
+
+https://testdriven.io/blog/django-async-views/#celery-and-async-views
+
+https://testdriven.io/blog/django-and-celery/
